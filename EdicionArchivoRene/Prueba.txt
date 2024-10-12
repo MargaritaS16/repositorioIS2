@@ -1,2 +1,7 @@
-Prueba
-123345667886666
+Bienvenido al repositorio IS2
+Este proyecto es parte de nuestro curso IS2.
+Estamos aprendiendo a usar Git y GitHub para el control de versiones.
+Cada miembro del grupo contribuirá a este repositorio.
+Aquí encontrará varios archivos relacionados con nuestro proyecto.
+Siéntete libre de explorar y contribuir si eres parte del grupo.
+¡Feliz codificación!
